@@ -30,6 +30,7 @@ El proyecto incluye:
 - Mejora de la red mediante nuevas capas, Dropout y Early Stopping.
 - Comparación de los modelos.
 - Predicción sobre nuevas reseñas.
+- Conclusiones finales.
 
 ## Modelos utilizados
 
